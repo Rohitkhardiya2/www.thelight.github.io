@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>The Ranjeet Singh Blogs</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" >  
+    <link rel="stylesheet" href="ranjeet.css">
+    </head>
+    <body>
+    <div id="logo"> 
+        <img src="bhim.png" class="NAME">
+        <img src="bhimhindi.png" class="hindi">
+    </div>
+        <div class="contacts" >
+            <div class="Box">
+                <div class="ImgBox">        
+        <a href="R:\WEBSITES\SHAYRI WEBSITE\HTML\home.htm" title="Click here for Home Page">   <h5>Home</h5></a> 
+        </div>
+            <div class="ImgBox">        
+            <img src="cntct.png" class="contac1">
+        </div>
+        </div>
+        </div>
+    <div class="mypicbg">
+        <img src="R:\WEBSITES\SHAYRI WEBSITE\PHOTOS\title4.png">
+        </div>
+        <div class="infos">
+        <h1>Name :-          Ranjeet Singh </h1>
+        <h1 class="clr">Nick Name :-     Chhota Bheem </h1>
+        <h1>Father's Name :- Mahesh Khardiya </h1>
+        <h1 class="clr">Mother's Name :- Sharvani Devi </h1>
+        
+        <h1>Address       :- Ward No. 15, Bissau, Tahsil-Malsisar, </h1>
+        <h1 class="clr">District-Jhunjhunu (Raj.) Pin Code-331027 </h1>
+        <h1>Mobile No.    :- 6377403126 </h1>
+        </div>
+       <div class="mypic"> 
+       <img src="bhim2.png">
+        </div>
+        
+        
+        <div class="sm" >
+        <div class="smbox">
+        <div class="smimgBox">
+          <a href="https://www.facebook.com/ranjeetsingh.urfbhim" target="_blank" rel="noopener noreferrer" title="Click here for contact on Facebook"><img width="50px" height="50px" src="socialmedias/fb.png"></a>
+            </div>
+            
+        </div>
+        <div class="smbox">
+        <div class="smimgBox">
+            <a href="mailto: Ranjeet.khardiya2@gmail.com" target="_blank" rel="noopener noreferrer" title="Click here for contact on e-mail"><img width="50px" height="50px" src="socialmedias/google.png"></a>
+            </div>
+            
+        </div>
+        <div class="smbox">
+        <div class="smimgBox">
+            <a href="https://www.youtube.com/channel/UCephVz6TZR1Q8p_0nD9l96Q" target="_blank" rel="noopener noreferrer" title="Click here for contact on Youtube"><img width="50px" height="50px" src="socialmedias/yt.png"></a>
+            </div>
+           
+        </div>
+        <div class="smbox">
+        <div class="smimgBox">
+            <a href="https://wa.me/message/2D73LJEFH3DEH1" target="_blank" rel="noopener noreferrer" title="Click here for contact on Whatsapp"><img width="50px" height="50px" src="socialmedias/whtsap.png"></a>
+            </div>
+           
+        </div>
+        <div class="smbox">
+        <div class="smimgBox">
+        <a href="https://twitter.com/Ranjeet43775044" target="_blank" rel="noopener noreferrer" title="Click here for contact on Twitter"><img width="50px" height="50px" src="socialmedias/twtr.png"></a>
+        </div>
+            
+        </div>
+        <div class="smbox">
+        <div class="smimgBox">
+        <a href="https://in.pinterest.com/ranjeetkhardiya2/" target="_blank" rel="noopener noreferrer" title="Click here for contact on Pintrest"><img width="50px" height="50px" src="socialmedias/pnt.png"></a>
+        </div>
+            
+        </div>
+        <div class="smbox">
+        <div class="smimgBox">
+        <a href="https://www.instagram.com/lovejeet5388/" target="_blank" rel="noopener noreferrer" title="Click here for contact on Instagram"><img width="50px" height="50px" src="socialmedias/insta.png"></a>
+        </div>
+        </div>
+        </div>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+    
+    </body>
+
+
+</html>

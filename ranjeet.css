@@ -1,0 +1,131 @@
+html {
+    background-color: whitesmoke;
+}
+body {
+    width: 850px;
+    height: auto;
+    margin: auto;
+}
+#logo {
+    width: auto;
+    height: auto;
+background-color: whitesmoke;    
+  border: 2px solid #7E0538;
+    align-items: center;
+    display: flex;
+}
+.NAME {
+    float: left;
+    display: flex;
+}
+.NAME {
+  animation: rotation 8s infinite linear;
+}
+
+@keyframes rotation {
+  from {
+    transform: rotateY(0deg);
+  }
+  to {
+    transform: rotateY(359deg);
+  }
+}
+.contacts {
+    width: auto;
+    height: 115px;
+   border: 2px solid #7E0538; 
+}
+.contacts .Box:hover .ImgBox img {
+    transform: scaleX(0.9);
+    background-color: #E00777;
+}
+.mypicbg {
+    opacity: 100%;
+    display: flex;
+    border: 2px solid black;
+    width: 844px;
+    height: auto;
+    position: absolute;
+}
+.mypic {
+    margin-top: 60px;
+    float: right;
+    display: flex;
+    margin-right: 0px;
+       
+    
+ }
+
+.infos {
+       text-align: center;
+        margin-left: 20px;
+        margin-right: 20px;
+}
+h1 {
+    color: #E00777;
+    font-size: 20px;
+    background-color: whitesmoke;
+    opacity: 90%;
+}
+
+//Social media links//
+.sm {
+   
+    width: 844px;
+    min-height: 50px;
+    border: 2px solid #7E0538;
+        
+}
+.sm .smbox {
+    position: relative;
+    width: 50px;
+    height: 50px;
+    margin: 2px;
+    float: left;
+    margin-left: 10px;
+    
+    
+}
+.sm .smbox .smimgBox {
+    position: relative;
+    
+}
+.sm .smbox .smimgBox img {
+    max-width: 100%;
+    transition: transform 2s;
+}
+.sm .smbox:hover .smimgBox img {
+    transform: scale(1.2);
+}
+
+.clr {
+  color: #078459;
+}
+h5 {
+    text-align: center;
+    border: 2px solid black;
+    color: brown;
+}
+.contacts .Box .ImgBox:hover h5 {
+    transform: scaleY(1.2);
+    color: darkgray;
+}
+
+.infos:hover h1 {
+    color: firebrick;
+    transform: scaleY(1.1);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

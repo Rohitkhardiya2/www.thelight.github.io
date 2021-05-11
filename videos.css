@@ -1,0 +1,66 @@
+html {
+    background-color: #fff;
+}
+body {
+    margin: auto;
+    width: 845px;
+    height: auto;
+    border: 1px solid brown;
+    background-color: whitesmoke;
+}
+.logo {
+    margin-top: 0px;
+    background-color: whitesmoke;
+    height: 100px;
+    border-radius: 5px;
+    border-bottom: 2px solid gray;
+}
+.logoleft {
+    width: 100px;
+    height: 100px;
+    margin-left: 10px;
+}
+
+
+h1 {
+    text-align: center;
+    background-color: #48D1CC;
+    font-family: fantasy;
+    font-size: 20px;
+    border-radius: 5px;
+    }
+.logoleft {
+    animation: rotation 8s infinite linear;
+}
+@keyframes rotation {
+    from {transform: rotateY(0deg);}
+    to {transform: rotateY(359deg);}
+}
+
+
+h1:hover {
+    transform: scaleY(1.1);
+    color: ghostwhite;
+  
+}
+
+.footer {
+    text-align: center;
+   word-spacing: 20px;
+    margin-top: 20px;
+    
+}
+h1:hover {
+    background-color: brown;
+    animation: rotation 8s infinite linear;
+}
+@keyframes rotation {
+    from {transform: rotateY(0deg);}
+    to {transform: rotateY(359deg);}
+}
+
+.videos1 {
+    border: 2px solid #e00777;
+    margin-left: 2px;
+}
+

@@ -1,0 +1,71 @@
+body {
+    width: 845px;
+    background-color: whitesmoke;
+    height: auto;
+    text-align: center;
+    margin: auto;
+    
+}
+.light2 {
+    text-align: center;
+    margin: auto;
+    font-size: 20px;
+}
+.btn_gmail {
+    display:inline-grid;
+    width: 300px;
+    margin: auto;
+    height: 30px;
+    background-color: #EA4335;
+    border-radius: 10px;
+    color: ghostwhite;
+    font-size: 15px; 
+    text-align: center;
+}
+.btn_fb {
+    display:inline-grid;
+    width: 300px;
+    margin: auto;
+    height: 30px;
+    background-color: #4267B2;
+    border-radius: 10px;
+    color: ghostwhite;
+    font-size: 15px; 
+    text-align: center;
+}
+.light6, .light7,.light8, .light9 {
+    width: 300px;
+    margin: auto;
+border-radius: 10px;
+    height: 30px;
+    background-color: #fff0f5;
+      }
+.light6 {
+    margin-top: 10px;
+}
+.btn {
+    width: 305px;
+    margin-top: 10px;
+    height: 30px;
+    margin-left: 10px;
+    border-radius: 10px;
+    background-color: #191970;
+    color: whitesmoke;
+}
+.logo {
+    border: 1px solid gray;
+    margin-top: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
